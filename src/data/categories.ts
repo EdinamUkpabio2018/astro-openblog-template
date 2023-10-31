@@ -16,5 +16,6 @@ export const CATEGORIES = [
 	'Health',
 	'Mental Health',
 	'Random',
-	'English'
+	'English',
+	'Japanese'
 ] as const
